@@ -11,9 +11,16 @@
 
 ---
 
-### 💻 Languages & Tools
+### 🧑‍💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=c,html,css,dart,flutter,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=c,html,css,dart" />
+</p>
+
+---
+
+### 🛠 Tools & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,git,github,vscode" />
 </p>
 
 ---
