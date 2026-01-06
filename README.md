@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Md Medul Islam</h1>
-<h3 align="center">Student | Beginner Developer</h3>
+<h3 align="center">Student | Beginner Developer | Aspiring Flutter Developer</h3>
 
 ---
 
 ### 🙋‍♂️ About Me
 - 🎓 I am a student from Bangladesh  
-- 🌱 Currently learning **Flutter** 
+- 🌱 Currently learning **Flutter & Dart**  
 - 💻 Interested in software & technology  
 - 🚀 Dream: Become a skilled software engineer  
 
@@ -13,8 +13,30 @@
 
 ### 💻 Languages & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=c,html,css,dart,flutter" />
+  <img src="https://skillicons.dev/icons?i=c,html,css,dart,flutter,git,github,vscode" />
 </p>
+
+---
+
+### 🌱 Currently Learning
+- Flutter UI Design
+- Dart OOP Concepts
+- Git & GitHub Basics
+
+---
+
+### 📂 Projects
+- 📱 **Flutter Practice App** – Learning UI, navigation & widgets  
+- 🌐 **HTML & CSS Website** – Simple responsive webpage  
+> *(More projects coming soon 🚧)*
+
+---
+
+### 🧭 Learning Roadmap
+- C Programming ✅  
+- HTML & CSS ✅  
+- Dart Basics ✅  
+- Flutter App Development 🚧  
 
 ---
 
@@ -23,7 +45,7 @@
 
 ---
 
-### 🔥 Streak
+### 🔥 GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=medul-islam&theme=tokyonight)
 
 ---
@@ -31,3 +53,9 @@
 ### 📫 Contact Me
 - 📧 Email: md.medulislam200@gmail.com  
 - 🌐 Facebook: https://facebook.com/  
+
+---
+
+<p align="center">
+  ⭐ Thanks for visiting my profile ⭐  
+</p>
