@@ -20,7 +20,7 @@
 
 ### 🛠 Tools & Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=flutter,git,github,vscode,androidstudio" />
 </p>
 
 ---
