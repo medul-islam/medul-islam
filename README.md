@@ -5,17 +5,16 @@
 
 ### 🙋‍♂️ About Me
 - 🎓 I am a student from Bangladesh  
-- 🌱 Currently learning programming  
+- 🌱 Currently learning **Flutter** 
 - 💻 Interested in software & technology  
 - 🚀 Dream: Become a skilled software engineer  
 
 ---
 
-### 🛠 Skills
-![C](https://img.shields.io/badge/C-blue)
-![C++](https://img.shields.io/badge/C++-00599C)
-![Python](https://img.shields.io/badge/Python-yellow)
-![Dart](https://img.shields.io/badge/Dart-0175C2)
+### 💻 Languages & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=c,html,css,dart,flutter" />
+</p>
 
 ---
 
